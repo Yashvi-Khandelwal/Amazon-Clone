@@ -1,5 +1,4 @@
-# Amazon-Clone
-Amazon Clone developed using HTML and CSS. This project replicates the UI of Amazon's homepage, showcasing a functional navigation bar, hero section, product categories, and footer. 
+
 
 Amazon Clone
 This is a simple project that looks like Amazon's homepage. It was created using HTML and CSS to practice front-end development.
